@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sravanzeal123
 - 👀 I’m interested in ...React Native, iOS Development
-- 🌱 I’m currently learning ... Flutter
-- 💞️ I’m looking to collaborate on ... Freelancer Oppurtunities
+- 🌱 I’m currently learning ... AI Tools
+- 💞️ I’m looking to collaborate on ... Freelancer Opportunities
 - 📫 How to reach me ... Skype : live:sravan150694
 
 
